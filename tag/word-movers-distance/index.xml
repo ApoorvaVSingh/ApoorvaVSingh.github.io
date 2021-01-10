@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Word Mover’s Distance | Apoorva Vikram Singh</title>
+    <link>https://ApoorvaVSingh.github.io/tag/word-movers-distance/</link>
+      <atom:link href="https://ApoorvaVSingh.github.io/tag/word-movers-distance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Word Mover’s Distance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 21:58:53 +0530</lastBuildDate>
+    <image>
+      <url>https://ApoorvaVSingh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Word Mover’s Distance</title>
+      <link>https://ApoorvaVSingh.github.io/tag/word-movers-distance/</link>
+    </image>
+    
+    <item>
+      <title>Patient Case Similarity</title>
+      <link>https://ApoorvaVSingh.github.io/project/patient/</link>
+      <pubDate>Sun, 10 Jan 2021 21:58:53 +0530</pubDate>
+      <guid>https://ApoorvaVSingh.github.io/project/patient/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Calculation of Patient Similarity based on Patient Demographic and Case Details extracted from XML annotations in Electronic Health Records (EHR).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;XSLT used for transforming and extracting annotated data into CSV.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An ensemble model consisting of both Word Mover’s Distance (WMD) and General Feature Extraction based on curated list of important sections weighted in the ratio 3:1.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

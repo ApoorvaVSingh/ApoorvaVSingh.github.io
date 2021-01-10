@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/collaborative-filtration/</loc>
+    <lastmod>2021-01-10T22:18:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/matrix-factorization/</loc>
+    <lastmod>2021-01-10T22:18:57+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ApoorvaVSingh.github.io/project/movie/</loc>
     <lastmod>2021-01-10T22:18:57+05:30</lastmod>
   </url>
@@ -38,12 +48,22 @@
   </url>
   
   <url>
+    <loc>https://ApoorvaVSingh.github.io/tags/</loc>
+    <lastmod>2021-01-10T22:18:57+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2021-01-10T21:58:53+05:30</lastmod>
   </url>
   
   <url>
     <loc></loc>
+    <lastmod>2021-01-10T21:58:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/joint-learning/</loc>
     <lastmod>2021-01-10T21:58:53+05:30</lastmod>
   </url>
   
@@ -53,7 +73,22 @@
   </url>
   
   <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/similarity/</loc>
+    <lastmod>2021-01-10T21:58:53+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
+    <lastmod>2021-01-10T21:58:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/word-movers-distance/</loc>
+    <lastmod>2021-01-10T21:58:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/word2vec/</loc>
     <lastmod>2021-01-10T21:58:53+05:30</lastmod>
   </url>
   
@@ -113,8 +148,33 @@
   </url>
   
   <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/glove/</loc>
+    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/graph-convolutional-network/</loc>
+    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/knowledge-base/</loc>
+    <lastmod>2021-01-10T20:14:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/latent-dirichlet-allocation/</loc>
+    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ApoorvaVSingh.github.io/tag/liar/</loc>
     <lastmod>2021-01-10T21:48:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/lstm/</loc>
+    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
   </url>
   
   <url>
@@ -133,17 +193,12 @@
   </url>
   
   <url>
-    <loc>https://ApoorvaVSingh.github.io/tag/seq2seq/</loc>
-    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ApoorvaVSingh.github.io/publication/singh-2020-seq-2-seq/</loc>
     <lastmod>2021-01-10T20:14:03+05:30</lastmod>
   </url>
   
   <url>
-    <loc></loc>
+    <loc>https://ApoorvaVSingh.github.io/tag/sequence-prediction/</loc>
     <lastmod>2021-01-10T20:14:03+05:30</lastmod>
   </url>
   
@@ -153,8 +208,8 @@
   </url>
   
   <url>
-    <loc>https://ApoorvaVSingh.github.io/tags/</loc>
-    <lastmod>2021-01-10T21:48:28+05:30</lastmod>
+    <loc></loc>
+    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
   </url>
   
   <url>
@@ -168,7 +223,12 @@
   </url>
   
   <url>
-    <loc>https://ApoorvaVSingh.github.io/tag/unix/</loc>
+    <loc>https://ApoorvaVSingh.github.io/tag/topic-modeling/</loc>
+    <lastmod>2021-01-10T20:14:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/unix-command-line-prediction/</loc>
     <lastmod>2021-01-10T20:14:03+05:30</lastmod>
   </url>
   
@@ -188,7 +248,32 @@
   </url>
   
   <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/drug-repositioning/</loc>
+    <lastmod>2021-01-10T20:14:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/knowledge-graph/</loc>
+    <lastmod>2021-01-10T20:14:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/machine-learning/</loc>
+    <lastmod>2021-01-10T20:14:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/ontology/</loc>
+    <lastmod>2021-01-10T20:14:04+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ApoorvaVSingh.github.io/publication/singh-2019-towards/</loc>
+    <lastmod>2021-01-10T20:14:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ApoorvaVSingh.github.io/tag/word-embedding/</loc>
     <lastmod>2021-01-10T20:14:04+05:30</lastmod>
   </url>
   
