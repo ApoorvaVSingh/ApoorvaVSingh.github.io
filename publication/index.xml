@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Apoorva Vikram Singh</title>
+    <link>https://ApoorvaVSingh.github.io/publication/</link>
+      <atom:link href="https://ApoorvaVSingh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ApoorvaVSingh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://ApoorvaVSingh.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid Classification Approach using Topic Modeling and Graph Convolution Networks</title>
+      <link>https://ApoorvaVSingh.github.io/publication/singh-2020-hybrid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ApoorvaVSingh.github.io/publication/singh-2020-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debunking Fake News by Leveraging Speaker Credibility and BERT Based Model</title>
+      <link>https://ApoorvaVSingh.github.io/publication/fakenews/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ApoorvaVSingh.github.io/publication/fakenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive approaches for the UNIX command line: curating and exploiting domain knowledge in semantics deficit data</title>
+      <link>https://ApoorvaVSingh.github.io/publication/singh-2020-predictive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ApoorvaVSingh.github.io/publication/singh-2020-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seq2Seq and Joint Learning Based Unix Command Line Prediction System</title>
+      <link>https://ApoorvaVSingh.github.io/publication/singh-2020-seq-2-seq/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ApoorvaVSingh.github.io/publication/singh-2020-seq-2-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Better Drug Repositioning Using Joint Learning</title>
+      <link>https://ApoorvaVSingh.github.io/publication/singh-2019-towards/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ApoorvaVSingh.github.io/publication/singh-2019-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
